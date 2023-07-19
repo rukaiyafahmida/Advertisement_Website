@@ -9,7 +9,9 @@ conda create -n ad-website python=3.11.4
 ```
 conda activate ad-website
 ```
-3. run
+3. 
+
+4. run
 ```
 python manage.py runserver
 ```
