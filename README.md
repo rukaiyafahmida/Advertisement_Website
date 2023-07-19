@@ -14,7 +14,7 @@ conda activate ad-website
 pip istall -r requirements.txt
 ```  
 
-4. run
+4. run the server
 ```
 python manage.py runserver
 ```
