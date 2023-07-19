@@ -9,7 +9,10 @@ conda create -n ad-website python=3.11.4
 ```
 conda activate ad-website
 ```
-3. 
+3. install requirements
+```
+pip istall -r requirements.txt
+```  
 
 4. run
 ```
